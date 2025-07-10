@@ -92,17 +92,6 @@ Download from Kaggle: Formula 1 World Championship (1950 - 2020)
 Place all .csv files into a folder named data/.
 
 
-📄 Project Structure
-
-C
-f1-eda/
-│
-├── data/                   # All CSV files from Kaggle
-│
-├── F1_EDA.ipynb            # Main Jupyter notebook
-├── README.md               # This README file
-├── requirements.txt        # Optional: Python packages
-└── assets/                 # Optional: Images for markdown
 
 
 📬 Connect
