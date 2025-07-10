@@ -5,74 +5,72 @@ Dataset sourced from Kaggle: Formula 1 World Championship (1950 - 2020)
 📂 Dataset Overview
 The dataset includes detailed F1 race data from 1950 to 2020, consisting of:
 
-races.csv: Race details (dates, seasons, locations)
+-races.csv: Race details (dates, seasons, locations)
 
-drivers.csv: Driver information (name, DOB, nationality)
+-drivers.csv: Driver information (name, DOB, nationality)
 
-constructors.csv: Team information
+-constructors.csv: Team information
 
-results.csv: Race results (positions, grid, points)
+-results.csv: Race results (positions, grid, points)
 
-circuits.csv: Circuit details
+-circuits.csv: Circuit details
 
-lap_times.csv: Lap-by-lap timing
+-lap_times.csv: Lap-by-lap timing
 
-driver_standings.csv: Standings per season
+-driver_standings.csv: Standings per season
 
 📌 Key Objectives
-Analyze trends in F1 races across decades
+-Analyze trends in F1 races across decades
 
-Identify top-performing drivers and constructors
+-Identify top-performing drivers and constructors
 
-Understand race dynamics, podiums, pole positions, and more
+-Understand race dynamics, podiums, pole positions, and more
 
-Visualize insights using Python (Matplotlib, Seaborn)
+-Visualize insights using Python (Matplotlib, Seaborn)
 
 📊 Exploratory Analysis Highlights
 🏁 General Insights
-Number of races per season
+-Number of races per season
 
-Most frequent circuits and countries
+-Most frequent circuits and countries
 
-Driver nationalities over time
+-Driver nationalities over time
 
 🧍‍♂️ Driver Insights
-Top 10 drivers by total wins
+-Top 10 drivers by total wins
 
-Podium finishes
+-Podium finishes
 
-Average finishing position
+-Average finishing position
 
-Pole position counts
+-Pole position counts
 
-Longest F1 careers
+-Longest F1 careers
 
 🛠️ Constructor Analysis
-Constructors with the most race wins
+-Constructors with the most race wins
 
-Year-wise dominance trends
 
 🗺️ Circuit Insights
-Circuits with most races held
+-Circuits with most races held
 
-Fastest average lap time by circuit
+-Fastest average lap time by circuit
 
 🔍 Advanced Insights
-Wins from back of the grid
+-Wins from back of the grid
 
-Fastest laps per driver
+-Fastest laps per driver
 
-Win distribution by nationality
 
 
 🛠️ Tools & Libraries Used
-Python (Pandas, Numpy)
+-Python (Pandas, Numpy)
 
-Seaborn, Matplotlib
+-Seaborn, Matplotlib
 
-Jupyter Notebook
+-Jupyter Notebook
 
-Kaggle Datasets
+-Kaggle Datasets
 
 🚀 Getting Started
 1. Clone the Repository
@@ -93,7 +91,6 @@ Place all .csv files into a folder named data/.
 
 
 
-
 📬 Connect
 Made by Soham Chatterjee
 📧 Email: sohamch03@gmail.com
@@ -101,15 +98,7 @@ Made by Soham Chatterjee
 
 “The winner ain't the one with the fastest car, it's the one who refuses to lose.” – Dale Earnhardt
 
-Would you like me to:
 
-Upload this README.md to your repo?
-
-Add requirements.txt and a Jupyter Notebook scaffold?
-
-Include sample plots as PNGs?
-
-Let me know!
 
 
 
