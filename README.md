@@ -64,8 +64,7 @@ Fastest laps per driver
 
 Win distribution by nationality
 
-📈 Sample Visualizations
-<p align="center"> <img src="https://i.imgur.com/U2N6yUq.png" width="600"/> </p> <p align="center"><i>Top 10 Drivers by Race Wins</i></p> <p align="center"> <img src="https://i.imgur.com/B44uHyK.png" width="600"/> </p> <p align="center"><i>Number of Races Held Per Season</i></p>
+
 🛠️ Tools & Libraries Used
 Python (Pandas, Numpy)
 
